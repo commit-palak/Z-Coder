@@ -90,18 +90,6 @@ ZCoder provides a space for users to solve, save, and share code in a personaliz
 
 ---
 
-## 👥 Contributors
-
-Built with ❤️ by:
-
-| Name              | GitHub Handle                           |
-|-------------------|-----------------------------------------|
-| 🌸 Kritika Shree   | [@shreespace](https://github.com/shreespace) |
-| 💡 Himanshi Aggarwal | [@Himanshi-77](https://github.com/Himanshi-77) |
-| 🎨 Shreya Paul     | [@shreyapaul](https://github.com/shreyapaul) |
-
----
-
 ## 🔮 Future Scope
 
 - 🔐 Google/GitHub OAuth login
