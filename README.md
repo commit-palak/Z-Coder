@@ -74,7 +74,6 @@ http://localhost:3000
 ## 🌐 Deployment
 
 - 🔗 **Live App**: [https://zcoder-gamma.vercel.app](https://zcoder-gamma.vercel.app)
-- 📽️ **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=L4m6GUtONBk)
 
 ---
 
