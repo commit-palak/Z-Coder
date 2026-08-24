@@ -46,7 +46,7 @@ With features like a live code editor and interactive rooms, ZCoder makes coding
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Himanshi-77/Zcoder.git
+git clone https://github.com/commit-palak/Z-Coder
 cd Zcoder
 
 # 2. Open the project in VS Code
